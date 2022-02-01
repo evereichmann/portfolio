@@ -392,7 +392,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -588,8 +588,7 @@ section {
 }
 
 .img-fluid{
-  height: 200px;
-  width: 350px;
+  -o-object-fit: contain;
 }
 
 .img-fluid-one{
